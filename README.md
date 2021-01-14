@@ -1,9 +1,10 @@
-# Spark project MS Big Data Télécom : 
+# Spark projet Furets
+par Emmanuel, Samuel, JP et Rodolphe
 
-Reprise du prjet de TPP KickStarter 2020-2021
+Reprise du projet de TP KickStarter 2020-2021 comme template avec config..
 
 Puis ajout de deux classes scala dans l'environnement configuré Kick Starter
-- une classe Scale pour projet Furets NoSQL : MongoDB Atlas (Dans le cloud AWS)
+- une classe SCALA pour projet Furets NoSQL : MongoDB Atlas (Dans le cloud AWS)
 - une classe SCALA pour le même projet version : Hadoop/Spark sur EMR (SolutionEMREC2S3)
 
 /// DEPENDENCIES + IMPORTS dans IntelliJ  -> compilateur sbt   /////////////////////
